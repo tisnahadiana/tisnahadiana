@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TisnaHadiana</h1>
 <h3 align="center">A passionate Android developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **SIA_3.0**
+- 🔭 I’m a Student at **Universitas Putra Indonesia (UNPI)** 
 
 - 🌱 I’m currently learning **Kotlin, Android Studio, Firebase**
 
