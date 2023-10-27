@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Student at **Universitas Putra Indonesia (UNPI)** 
 
-- 🌱 I’m currently learning **Kotlin, Android Studio, Firebase**
+- 🌱 **Kotlin, Android Studio, Firebase**
 
 - 💬 Ask me about **Kotlin, Android Studio, Firebase**
 
