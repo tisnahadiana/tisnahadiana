@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TisnaHadiana</h1>
 <h3 align="center">A passionate Android developer from Indonesia</h3>
 
-- 🔭 I’m a Student at **Universitas Putra Indonesia (UNPI)** 
+- 🔭 I am an Android Developer with 2 years of working experience.** 
 
 - 🌱 **Kotlin, Android Studio, Firebase**
 
