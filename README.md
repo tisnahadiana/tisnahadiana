@@ -17,5 +17,78 @@ I am also a fresh graduate from Universitas Putra Indonesia with a degree in Com
 <a href="https://instagram.com/tisna_hadiana01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tisna_hadiana01" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Projects :
+
+# CAVIAR (Crosswalk Assistance App for the Visually Impaired Peoples)
+
+By creating an app to assist the visually impaired in crossing the road. This app will enhance safety and independence for visually impaired pedestrians when they are crossing a road.
+
+Caviar Apps is creation by C23-PS05 Bangkit Team.
+- Access Here : https://github.com/caviar-bangkit/caviar-app
+
+![Caviar Apps ScreenShot2](https://github.com/caviar-bangkit/caviar-app/assets/77492139/ae54bd11-56e5-4e59-aeef-bf3412beefc8)
+
+## Tech Stack
+
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+- Mapbox.
+- Tensorflow Lite.
+- Retrofit (Networking).
+
+
+# EBC (E-Commerce Bojongpicung)
+
+This application was created with the hope that it can help expand the marketing of MSME products in Bojongpicung Village, and can be used by MSME players to develop their businesses.
+- Access Here : https://github.com/tisnahadiana/EBC
+ 
+![ebc](https://github.com/user-attachments/assets/babd0daf-6667-4f5f-bb46-100639e99a6c)
+
+## Tech Stack
+
+
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+- RajaOngkir API
+- Retrofit (Networking).
+
+
+# Amar (Amalan Bulan Ramadhan)
+![Screenshot Apps Amar3](https://github.com/user-attachments/assets/71dd311e-be97-42cf-9a4d-ecc639b6b405)
+
+## Tech Stack
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+
+
+# SIA (Sistem Informasi Akademik) 2.0
+
+An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
+- Access Here : https://github.com/tisnahadiana/SIA_2.0
+
+![3](https://github.com/tisnahadiana/SIA_3.0/assets/77492139/84a715df-f723-4c36-bca0-fe98fe442ded)
+ 
+## Tech Stack
+
+- Java.
+- Volley.
+- PHP.
+- Mysql 
+
+
+# SIA (Sistem Informasi Akademik) 3.0
+
+Update of aplikasi sistem informasi akademik (SIA) application which now has features for campus admins to use to manage existing student information.
+- Access Here : https://github.com/tisnahadiana/SIA_3.0
+
+![2](https://github.com/tisnahadiana/SIA_3.0/assets/77492139/706f1ca4-44ed-4cfb-90d7-e034571d8532)
+ 
+## Tech Stack
+
+- Java.
+- Volley.
+- PHP.
+- Mysql 
