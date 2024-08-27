@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm TisnaHadiana</h1>
 <h3 align="center">A passionate Android developer from Indonesia</h3>
 
-- 🔭 I am an Android Developer with 2 years of working experience.** 
+## 🚀 About Me
+I am an Android Developer with two years of experience where I have worked with Java and Kotlin programming languages ​​on various projects that include application development from design to implementation. During that time, I have successfully completed several applications that were created such as making application improvements, custom user interfaces, and reskinning applications for advertising.
 
-- 🌱 **Kotlin, Android Studio, Firebase**
+I am also a fresh graduate from Universitas Putra Indonesia with a degree in Computer Engineering. In addition to technical experience, my involvement as a committee member in various campus organizations has helped me build meaningful connections and improve my teamwork skills.
 
-- 💬 Ask me about **Kotlin, Android Studio, Firebase**
+## 🛠 Skills
+**Kotlin, Java, Android Studio, Firebase**
 
 - 📫 How to reach me **tisnahadiana@gmail.com**
-
-- ⚡ Fun fact **Coffe is my booster <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
