@@ -63,6 +63,37 @@ This application was created with the hope that it can help expand the marketing
 - Kotlin Coroutines.
 - Firebase.
 
+# Younity | The Prime
+
+Application that provides various digital electronic needs such as data packages, credit, electricity tokens and other payment needs.
+
+![ScreenShot_20240828100355](https://github.com/user-attachments/assets/846d99a6-575d-4d0f-a8fb-c2edd5d971f7)
+
+## Tech Stack
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+- Glide.
+- Retrofit.
+- RxKotlin.
+- Room.
+
+# Simpul manjur | The Prime
+
+This application was created as a forum for MSMEs to be able to develop their business in the form of a marketplace where they can sell their products.
+
+![ScreenShot_20240828103529](https://github.com/user-attachments/assets/f92fe08d-99ef-469e-9df7-f9fb423bc70b)
+
+## Tech Stack
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+- Mapbox.
+- Datastore
+- Glide.
+- Retrofit.
+- RxKotlin.
+- Room.
 
 # SIA (Sistem Informasi Akademik) 2.0
 
