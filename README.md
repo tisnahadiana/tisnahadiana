@@ -95,6 +95,32 @@ This application was created as a forum for MSMEs to be able to develop their bu
 - RxKotlin.
 - Room.
 
+# Guess Image Theme A | Aliendroid - Jambox
+
+Source code to create a picture guessing game equipped with reward ads to get coins.
+- Access Here : https://aliendro.id/jambox-guess-image-theme-a-452
+  
+![Screenshot Apps Guess Image Theme A2](https://github.com/user-attachments/assets/91caad78-237c-4217-a18b-028cd2e772c5)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Guess Image Theme B | Aliendroid - Jambox
+
+Source code to create a picture guessing game equipped with reward ads to get coins.
+- Access Here : https://aliendro.id/jambox-guess-image-theme-b-453
+
+![Screenshot Apps Guess Image Theme B2](https://github.com/user-attachments/assets/1d4a5a23-d025-48f3-9322-bb57f049f814)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
 # SIA (Sistem Informasi Akademik) 2.0
 
 An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
