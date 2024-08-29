@@ -121,6 +121,21 @@ Source code to create a picture guessing game equipped with reward ads to get co
 - Json.
 - Jambox Ads.
 
+# Afiliator Cerdas
+
+Afiliator Cerdas is a place to access digital books from many smart tutorials in training for smart affiliate businesses.
+
+![Screenshot Apps Afiliator Cerdas2](https://github.com/user-attachments/assets/94357d9c-bcaa-47a4-841b-7e4c74b3061b)
+
+## Tech Stack
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+- Datastore
+- Glide.
+- Retrofit.
+- RxKotlin.
+
 # SIA (Sistem Informasi Akademik) 2.0
 
 An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
