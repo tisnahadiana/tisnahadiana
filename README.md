@@ -136,6 +136,21 @@ Afiliator Cerdas is a place to access digital books from many smart tutorials in
 - Retrofit.
 - RxKotlin.
 
+# Nu Circle | The Prime
+
+Modification of the NU Circle application with changes to the backend to change it to use the full Firebase as a data storage source.
+
+![Screenshot Apps Nu Circle2](https://github.com/user-attachments/assets/e67a989d-de7c-42f0-9520-632b14c7b172)
+
+## Tech Stack
+- Kotlin.
+- Kotlin Coroutines.
+- Firebase.
+- Datastore
+- Glide.
+- Retrofit.
+- RxKotlin.
+
 # SIA (Sistem Informasi Akademik) 2.0
 
 An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
