@@ -43,10 +43,9 @@ Caviar Apps is creation by C23-PS05 Bangkit Team.
 This application was created with the hope that it can help expand the marketing of MSME products in Bojongpicung Village, and can be used by MSME players to develop their businesses.
 - Access Here : https://github.com/tisnahadiana/EBC
  
-![ebc](https://github.com/user-attachments/assets/babd0daf-6667-4f5f-bb46-100639e99a6c)
+![Screenshot Apps EBC](https://github.com/user-attachments/assets/bceac537-2ddb-4d90-b58d-e2984649a5f5)
 
 ## Tech Stack
-
 
 - Kotlin.
 - Kotlin Coroutines.
@@ -150,6 +149,32 @@ Modification of the NU Circle application with changes to the backend to change 
 - Glide.
 - Retrofit.
 - RxKotlin.
+
+# Funny Prank Sound A | Aliendroid - Jambox
+
+Source code for Funny Prank Sound apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-funny-prank-sound-theme-a-486
+
+![Screenshot Apps Funny Prank Sound A2](https://github.com/user-attachments/assets/fdab9a55-3d4a-4e39-8fbf-7713ca7d79b4)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Funny Prank Sound B | Aliendroid - Jambox
+
+Source code for Funny Prank Sound apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-funny-prank-sound-theme-b-487
+
+![Screenshot Apps Funny Prank Sound B2](https://github.com/user-attachments/assets/c8f8f011-be00-4b60-9362-94765cc6f214)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
 
 # SIA (Sistem Informasi Akademik) 2.0
 
