@@ -176,31 +176,5 @@ Source code for Funny Prank Sound apps with jambox ads.
 - Json.
 - Jambox Ads.
 
-# SIA (Sistem Informasi Akademik) 2.0
+# [Other Projects](https://github.com/tisnahadiana/tisnahadiana/blob/main/Projects_List.md) 
 
-An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
-- Access Here : https://github.com/tisnahadiana/SIA_2.0
-
-![3](https://github.com/tisnahadiana/SIA_3.0/assets/77492139/84a715df-f723-4c36-bca0-fe98fe442ded)
- 
-## Tech Stack
-
-- Java.
-- Volley.
-- PHP.
-- Mysql 
-
-
-# SIA (Sistem Informasi Akademik) 3.0
-
-Update of aplikasi sistem informasi akademik (SIA) application which now has features for campus admins to use to manage existing student information.
-- Access Here : https://github.com/tisnahadiana/SIA_3.0
-
-![2](https://github.com/tisnahadiana/SIA_3.0/assets/77492139/706f1ca4-44ed-4cfb-90d7-e034571d8532)
- 
-## Tech Stack
-
-- Java.
-- Volley.
-- PHP.
-- Mysql 
