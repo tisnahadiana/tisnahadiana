@@ -53,6 +53,32 @@ Source code for Stickers WhatsApp Theme B apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+# Mp3 / Audio Player - Single Album Theme A | Aliendroid - Jambox
+
+Source code for Mp3 / Audio Player - Single Album Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-mp3-audio-player-single-album-theme-a-428
+
+![Screenshot Apps Mp3  Audio Player - Single Album Theme A2](https://github.com/user-attachments/assets/23ac85ed-2580-4f61-9b2f-f4f67f286cd6)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Mp3 / Audio Player - Single Album Theme C | Aliendroid - Jambox
+
+Source code for Mp3 / Audio Player - Single Album Theme C apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-mp3-audio-player-single-album-theme-c-431
+
+![Screenshot Apps Mp3  Audio Player - Single Album Theme C](https://github.com/user-attachments/assets/68ec76be-3560-42b7-90d6-f815674e8fab)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
 # SIA (Sistem Informasi Akademik) 1.0
 
 Sistem informasi akademik (SIA) is a mobile-based application that can be used by students to access campus information such as filling in KRS, viewing KHS, lecture schedules and announcements on the campus website.
