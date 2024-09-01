@@ -1,87 +1,12 @@
 
 ## Projects :
 
-# CAVIAR (Crosswalk Assistance App for the Visually Impaired Peoples)
+# Video Player Youtube Playlist A | Aliendroid - Jambox
 
-By creating an app to assist the visually impaired in crossing the road. This app will enhance safety and independence for visually impaired pedestrians when they are crossing a road.
+Source code for Video Player Youtube Playlist apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-video-player-youtube-playlist-theme-a-511
 
-Caviar Apps is creation by C23-PS05 Bangkit Team.
-- Access Here : https://github.com/caviar-bangkit/caviar-app
-
-![Caviar Apps ScreenShot2](https://github.com/caviar-bangkit/caviar-app/assets/77492139/ae54bd11-56e5-4e59-aeef-bf3412beefc8)
-
-## Tech Stack
-
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-- Mapbox.
-- Tensorflow Lite.
-- Retrofit (Networking).
-
-
-# EBC (E-Commerce Bojongpicung)
-
-This application was created with the hope that it can help expand the marketing of MSME products in Bojongpicung Village, and can be used by MSME players to develop their businesses.
-- Access Here : https://github.com/tisnahadiana/EBC
- 
-![Screenshot Apps EBC](https://github.com/user-attachments/assets/bceac537-2ddb-4d90-b58d-e2984649a5f5)
-
-## Tech Stack
-
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-- RajaOngkir API
-- Retrofit (Networking).
-
-
-# Amar (Amalan Bulan Ramadhan)
-![Screenshot Apps Amar3](https://github.com/user-attachments/assets/71dd311e-be97-42cf-9a4d-ecc639b6b405)
-
-## Tech Stack
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-
-# Younity | The Prime
-
-Application that provides various digital electronic needs such as data packages, credit, electricity tokens and other payment needs.
-
-![ScreenShot_20240828100355](https://github.com/user-attachments/assets/846d99a6-575d-4d0f-a8fb-c2edd5d971f7)
-
-## Tech Stack
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-- Glide.
-- Retrofit.
-- RxKotlin.
-- Room.
-
-# Simpul manjur | The Prime
-
-This application was created as a forum for MSMEs to be able to develop their business in the form of a marketplace where they can sell their products.
-
-![ScreenShot_20240828103529](https://github.com/user-attachments/assets/f92fe08d-99ef-469e-9df7-f9fb423bc70b)
-
-## Tech Stack
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-- Mapbox.
-- Datastore
-- Glide.
-- Retrofit.
-- RxKotlin.
-- Room.
-
-# Guess Image Theme A | Aliendroid - Jambox
-
-Source code to create a picture guessing game equipped with reward ads to get coins.
-- Access Here : https://aliendro.id/jambox-guess-image-theme-a-452
-  
-![Screenshot Apps Guess Image Theme A2](https://github.com/user-attachments/assets/91caad78-237c-4217-a18b-028cd2e772c5)
+![Screenshot Apps Video Player Youtube Playlist A2](https://github.com/user-attachments/assets/189e90fd-75e4-428a-af9e-1ecd5a5b6413)
 
 ## Tech Stack
 - Java.
@@ -89,68 +14,12 @@ Source code to create a picture guessing game equipped with reward ads to get co
 - Json.
 - Jambox Ads.
 
-# Guess Image Theme B | Aliendroid - Jambox
+# Video Player Youtube Playlist B | Aliendroid - Jambox
 
-Source code to create a picture guessing game equipped with reward ads to get coins.
-- Access Here : https://aliendro.id/jambox-guess-image-theme-b-453
+Source code for Video Player Youtube Playlist apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-video-player-youtube-playlist-theme-b-513
 
-![Screenshot Apps Guess Image Theme B2](https://github.com/user-attachments/assets/1d4a5a23-d025-48f3-9322-bb57f049f814)
-
-## Tech Stack
-- Java.
-- Volley.
-- Json.
-- Jambox Ads.
-
-# Afiliator Cerdas
-
-Afiliator Cerdas is a place to access digital books from many smart tutorials in training for smart affiliate businesses.
-
-![Screenshot Apps Afiliator Cerdas2](https://github.com/user-attachments/assets/94357d9c-bcaa-47a4-841b-7e4c74b3061b)
-
-## Tech Stack
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-- Datastore
-- Glide.
-- Retrofit.
-- RxKotlin.
-
-# Nu Circle | The Prime
-
-Modification of the NU Circle application with changes to the backend to change it to use the full Firebase as a data storage source.
-
-![Screenshot Apps Nu Circle2](https://github.com/user-attachments/assets/e67a989d-de7c-42f0-9520-632b14c7b172)
-
-## Tech Stack
-- Kotlin.
-- Kotlin Coroutines.
-- Firebase.
-- Datastore
-- Glide.
-- Retrofit.
-- RxKotlin.
-
-# Funny Prank Sound A | Aliendroid - Jambox
-
-Source code for Funny Prank Sound apps with jambox ads.
-- Access Here : https://aliendro.id/jambox-funny-prank-sound-theme-a-486
-
-![Screenshot Apps Funny Prank Sound A2](https://github.com/user-attachments/assets/fdab9a55-3d4a-4e39-8fbf-7713ca7d79b4)
-
-## Tech Stack
-- Java.
-- Volley.
-- Json.
-- Jambox Ads.
-
-# Funny Prank Sound B | Aliendroid - Jambox
-
-Source code for Funny Prank Sound apps with jambox ads.
-- Access Here : https://aliendro.id/jambox-funny-prank-sound-theme-b-487
-
-![Screenshot Apps Funny Prank Sound B2](https://github.com/user-attachments/assets/c8f8f011-be00-4b60-9362-94765cc6f214)
+![Screenshot Apps Video Player Youtube Playlist B2](https://github.com/user-attachments/assets/e85fb272-e821-4399-9e3e-93399f55d710)
 
 ## Tech Stack
 - Java.
