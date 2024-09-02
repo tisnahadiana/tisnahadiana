@@ -94,6 +94,32 @@ Sistem informasi akademik (SIA) is a mobile-based application that can be used b
 - PHP.
 - Mysql
 
+# Simple Skin Minecraft Theme A | Aliendroid - Jambox
+
+Source code for Simple Skin Minecraft Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-simple-skin-410
+
+![Screenshot Apps Simple Skin Minecraft Theme A](https://github.com/user-attachments/assets/e6770d1f-9b2c-4745-a936-cefdcdf25b79)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Simple Skin Minecraft Theme B | Aliendroid - Jambox
+
+Source code for Simple Skin Minecraft Theme B apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-simple-skin-minecraft-theme-b-416
+
+![Screenshot Apps Simple Skin Minecraft Theme B](https://github.com/user-attachments/assets/4c455279-720c-475c-9c38-14e78ea45a98)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
 # SIA (Sistem Informasi Akademik) 2.0
 
 An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
