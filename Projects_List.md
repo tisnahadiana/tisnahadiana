@@ -226,3 +226,42 @@ Update of aplikasi sistem informasi akademik (SIA) application which now has fea
 - Volley.
 - PHP.
 - Mysql 
+
+# Mp3 / Audio Player - Single Album Theme D | Aliendroid - Jambox
+
+Source code for Mp3 / Audio Player - Single Album Theme D apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-mp3-audio-player-single-album-theme-d-434
+
+![Screenshot Apps Mp3  Audio Player - Single Album Theme D](https://github.com/user-attachments/assets/47a6d3bd-d665-47dc-9194-051eaca36e5e)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Guess Image and Word Theme A | Aliendroid - Jambox
+
+Source code for Guess Image and Word Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-guess-image-and-word-theme-a-472
+
+![Screenshot Apps Guess Image and Word Theme A](https://github.com/user-attachments/assets/ce162344-41d3-44bb-b1c1-361bae1e87db)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Guess Image and Word Theme B | Aliendroid - Jambox
+
+Source code for Guess Image and Word Theme B apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-guess-image-and-word-theme-b-476
+
+![Screenshot Apps Guess Image and Word Theme B](https://github.com/user-attachments/assets/6efc7ee0-fd77-4c9f-8063-e7b16c3aff23)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
