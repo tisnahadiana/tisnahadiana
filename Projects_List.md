@@ -134,6 +134,31 @@ An update of the Sistem Informasi Akademik (SIA) application which currently has
 - PHP.
 - Mysql 
 
+# Maps for MCPE Theme A | Aliendroid - Jambox
+
+Source code for Maps for MCPE Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-maps-for-mcpe-419
+
+![Screenshot Apps Maps for MCPE Theme A](https://github.com/user-attachments/assets/154e70b4-cad2-4f98-9da7-780106fd34ff)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Maps for MCPE Theme B | Aliendroid - Jambox
+
+Source code for Maps for MCPE Theme B apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-maps-for-mcpe-theme-b-422
+
+![Screenshot Apps Maps for MCPE Theme B](https://github.com/user-attachments/assets/b63dfa76-989c-429b-93e9-eeff0dca0c09)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
 
 # SIA (Sistem Informasi Akademik) 3.0
 
