@@ -265,3 +265,29 @@ Source code for Guess Image and Word Theme B apps with jambox ads.
 - Volley.
 - Json.
 - Jambox Ads.
+
+# Guess Image Theme C | Aliendroid - Jambox
+
+Source code for Guess Image Theme C apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-guess-image-theme-c-491
+
+![Screenshot Apps Guess Image Theme C](https://github.com/user-attachments/assets/753fc164-900f-4707-89f9-fa1654aaa621)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Funny Prank Sound C | Aliendroid - Jambox
+
+Source code for Guess Image Theme C apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-funny-prank-sound-theme-c-500
+
+![Screenshot Apps Funny Prank Sound C](https://github.com/user-attachments/assets/3ba16812-ac47-4570-b57f-7fca55a60ee1)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
