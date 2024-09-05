@@ -291,3 +291,43 @@ Source code for Guess Image Theme C apps with jambox ads.
 - Volley.
 - Json.
 - Jambox Ads.
+
+# Coloring Book for Kids A | Aliendroid - Jambox
+
+Source code for Coloring Book for Kids A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-coloring-book-for-kids-theme-a-514
+
+![Screenshot AppsColoring Book for Kids A](https://github.com/user-attachments/assets/55659d61-a196-4289-b7c5-d91489001f51)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Simple Webview Theme A | Aliendroid - Jambox
+
+Source code for Simple Webview Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-simple-webview-theme-a-495
+
+![Screenshot Apps Simple Webview Theme A](https://github.com/user-attachments/assets/b2f10fad-1675-4019-ad54-ca0297dcccd0)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Simple Webview Theme B | Aliendroid - Jambox
+
+Source code for Simple Webview Theme B apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-simple-webview-theme-b-498
+
+![Screenshot Apps Simple Webview Theme B](https://github.com/user-attachments/assets/2209e783-1510-45bb-afa7-f1bc33fff5f2)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
