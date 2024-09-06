@@ -331,3 +331,42 @@ Source code for Simple Webview Theme B apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+# Guess Image Theme D | Aliendroid - Jambox
+
+Source code for Guess Image Theme D apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-guess-image-theme-d-499
+
+![Screenshot Apps Guess Image Theme D](https://github.com/user-attachments/assets/33f64b0a-2e1b-40dc-9695-4e8674e8522a)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Guess Image and Word Theme C | Aliendroid - Jambox
+
+Source code forGuess Image and Word Theme C apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-guess-image-and-word-theme-c-479
+  
+![Screenshot Apps Guess Image and Word Theme C](https://github.com/user-attachments/assets/2fae9ff0-89d6-4ebd-9b87-a3c04c783209)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
+# Guess Image and Word Theme D | Aliendroid - Jambox
+
+Source code for Guess Image and Word Theme D apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-guess-image-and-word-theme-d-482
+
+![Salinan dari Screenshot Apps Guess Image and Word Theme D](https://github.com/user-attachments/assets/289f4e33-e431-43f9-9d59-b54f7c0dddc9)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+
