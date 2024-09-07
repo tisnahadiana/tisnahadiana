@@ -32,36 +32,11 @@ Source code for Video Player Youtube Playlist apps with jambox ads.
 ![Header Ad Free Browser](https://github.com/user-attachments/assets/f63d3fef-325a-42be-929f-2c45aa0996d7)
 
 Introducing our Ad-Blocking Browser Source Code for Android, a powerful and customizable web browser developed using Java and Android Studio. This source code is designed to offer users a fast and ad-free browsing experience by incorporating advanced ad-blocking features. Additionally, it includes integrated advertisement support from Jambox ads.
-  
-## UI/Handling
-FOSS Browser uses the latest Material You design libraries. Following system day/night mode and a wallpaper based theme are just two features of this new library. The UI is optimized for one-hand-use. All UI-elements are at the bottom of the screen.
+ 
+Enjoy the experience to offer users a fast and ad-free browsing experience by incorporating advanced ad-blocking features. Additionally, it includes integrated advertisement support from various networks, allowing you to monetize the app while delivering a smooth and enjoyable user experience.
 
-## More features:
-
-Keep screen on.
-Open links in background.
-Restore tabs on restart.
-Privacy
-FOSS Browser uses profiles to protect your privacy. For each profile you can enable or disable: AdBlock, JavaScript, cookies, fingerprint protection and much more. Profiles can also be saved for domains ("github.com" ⇒ Trusted website). These saved domains always overwrite the currently used profile. So, for example, "github.com" will always open with the trusted profile, even if you are browsing in the protected mode.
-
-## More privacy features:
-
-Built-in AdBlock, which updates automatically. You can decide which content to block. AdBlock hosts are taken from Steven Black - AdBlock hosts.
-Third-party cookies can not be enabled.
-Enable or disable Android-autofill.
-Delete browser data (on app exit).
-Choose between different search engines (or set a custom one).
-FOSS Browser itself doesn't collect any data: Privacy policy
-Bookmarks filter
-Organize your bookmarks with filters. You can set custom names for each filter. Long press the bookmark icon in the toolbar to get fast access to your favorite bookmarks.
-
-## Gestures
-You can assign nearly twenty different gestures to the toolbar and the toolbar buttons. Each in four directions. You can also trigger events by long pressing the toolbar buttons. So you have up to ten different gestures to control FOSS Browser. Supported is for example: load last website, switch tab, reload, open bookmarks, ... and many more.
-
-Backups
-Backup all your important data (bookmarks, history, trusted websites and so on) on your SD-card. You can also back up FOSS Browser settings. Backups can even be restored on a fresh install or another device (if you copy the backup files to the new device).
-
-## Integrated Advertisement Support With Jambox Ads
+Set bookmarks to save your favorite bookmarks by simply pressing the bookmark icon that you can access anytime. Backup is also available to save history data, bookmarks on your SD card. Backups can even be restored on a fresh install or another device (if you copy the backup files to the new device).
+ 
 
 ## Tech Stack
 - Java.
@@ -140,6 +115,35 @@ Source code for Mp3 / Audio Player - Single Album Theme C apps with jambox ads.
 - Java.
 - Volley.
 - Json.
+- Jambox Ads.
+
+# Simple File Manager | Aliendroid - Jambox
+
+Discover seamless photo enhancement with our intuitive editor. Effortlessly crop, resize, rotate, flip, draw, and apply filters to your images—all while maintaining complete privacy. Take charge of your visual memories like never before
+
+Your security is paramount. Safeguard your memories with pin, pattern, or fingerprint protection, allowing you to choose who can access specific photos, videos, or even the entire app. Enjoy peace of mind with enhanced security features.
+
+Make your gallery your own with customizable themes and functions that reflect your personal style. Whether adjusting the interface design or tweaking button layouts, you have the creative freedom to tailor the app to your liking.
+
+Enjoy support for a wide range of media formats, from JPEG and PNG to MP4, RAW, and beyond. With no format restrictions, you can manage your digital content effortlessly.
+
+Finally, experience the elegance of material design with dynamic themes that adapt to your preferences. Want more customization? Dive into custom themes to make your gallery experience uniquely yours.
+
+![Header Simple File Manager](https://github.com/user-attachments/assets/6a32b7db-de9f-4bc8-a1a0-9ecd1a42d2ec)
+
+## Tech Stack
+- Kotlin.
+- Volley.
+- Glide
+- Json.
+- Joda Time.
+- Reprint.
+- Pattern LockView
+- Zip4j.
+- Autofittextview.
+- Gestureviews.
+- Rootshell.
+- Roottools.
 - Jambox Ads.
 
 # SIA (Sistem Informasi Akademik) 1.0
