@@ -27,6 +27,50 @@ Source code for Video Player Youtube Playlist apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+# Ad Free Browser | Aliendroid - Jambox
+
+![Header Ad Free Browser](https://github.com/user-attachments/assets/f63d3fef-325a-42be-929f-2c45aa0996d7)
+
+Introducing our Ad-Blocking Browser Source Code for Android, a powerful and customizable web browser developed using Java and Android Studio. This source code is designed to offer users a fast and ad-free browsing experience by incorporating advanced ad-blocking features. Additionally, it includes integrated advertisement support from Jambox ads.
+  
+## UI/Handling
+FOSS Browser uses the latest Material You design libraries. Following system day/night mode and a wallpaper based theme are just two features of this new library. The UI is optimized for one-hand-use. All UI-elements are at the bottom of the screen.
+
+## More features:
+
+Keep screen on.
+Open links in background.
+Restore tabs on restart.
+Privacy
+FOSS Browser uses profiles to protect your privacy. For each profile you can enable or disable: AdBlock, JavaScript, cookies, fingerprint protection and much more. Profiles can also be saved for domains ("github.com" ⇒ Trusted website). These saved domains always overwrite the currently used profile. So, for example, "github.com" will always open with the trusted profile, even if you are browsing in the protected mode.
+
+## More privacy features:
+
+Built-in AdBlock, which updates automatically. You can decide which content to block. AdBlock hosts are taken from Steven Black - AdBlock hosts.
+Third-party cookies can not be enabled.
+Enable or disable Android-autofill.
+Delete browser data (on app exit).
+Choose between different search engines (or set a custom one).
+FOSS Browser itself doesn't collect any data: Privacy policy
+Bookmarks filter
+Organize your bookmarks with filters. You can set custom names for each filter. Long press the bookmark icon in the toolbar to get fast access to your favorite bookmarks.
+
+## Gestures
+You can assign nearly twenty different gestures to the toolbar and the toolbar buttons. Each in four directions. You can also trigger events by long pressing the toolbar buttons. So you have up to ten different gestures to control FOSS Browser. Supported is for example: load last website, switch tab, reload, open bookmarks, ... and many more.
+
+Backups
+Backup all your important data (bookmarks, history, trusted websites and so on) on your SD-card. You can also back up FOSS Browser settings. Backups can even be restored on a fresh install or another device (if you copy the backup files to the new device).
+
+## Integrated Advertisement Support With Jambox Ads
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
+- Webkit
+- Preference
+
 # Stickers WhatsApp Theme A | Aliendroid - Jambox
 
 Source code for Stickers WhatsApp Theme A apps with jambox ads.
@@ -51,6 +95,25 @@ Source code for Stickers WhatsApp Theme B apps with jambox ads.
 - Java.
 - Volley.
 - Json.
+- Jambox Ads.
+
+# Collage Maker For Pictures | Aliendroid - Jambox
+
+Create a collage for your image and photo collection using Collage Maker For Pictures easily, where you can choose a variety of different and easy-to-use frame options, such as the number of photos in 1 collage, the position of the frame, the choice of different frames according to your wishes.
+
+There is a PIP Collage template that you can use according to your wishes, just choose the PIP frame you want to use, choose your image or photo and the image will be a good Collage.
+
+![Header Collage Maker For Pictures](https://github.com/user-attachments/assets/87f4b3e5-5355-4a3a-827e-b775ffe61c3c)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- SDP.
+- Glide.
+- Picasso
+- Superslim
+- lottie
 - Jambox Ads.
 
 # Mp3 / Audio Player - Single Album Theme A | Aliendroid - Jambox
