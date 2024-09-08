@@ -161,6 +161,26 @@ Sistem informasi akademik (SIA) is a mobile-based application that can be used b
 - PHP.
 - Mysql
 
+# Nature Live Wallpaper | Aliendroid - Jambox
+
+Breathe a sigh of relief with the peaceful beauty of nature
+
+The beauty of the waterfall that rises from top to bottom is decorated with the beautiful fragrance of water, the bite of the beach at the end before the sea with beautiful land, the flow of the river that calmly brings beauty wherever the water flows, and beautiful clouds that decorate the sky.
+
+The beautiful mountain range that looks beautiful even though it is far away and the beauty of the flower garden that just by looking at it the heart feels cool, also the lake in the middle with beauty on its side.
+
+Enjoy the beauty above that you can install as a live wallpaper using this application, Nature Live Wallpaper provides various beautiful wallpapers that you can save and collect to beautify your device.
+
+![Header Nature Live Wallpaper](https://github.com/user-attachments/assets/b90fe01f-9983-4676-8630-9b3b30999bde)
+
+## Tech Stack
+
+- Java.
+- Volley.
+- Picasso.
+- Glide.
+- Lifecycle.
+
 # Simple Skin Minecraft Theme A | Aliendroid - Jambox
 
 Source code for Simple Skin Minecraft Theme A apps with jambox ads.
