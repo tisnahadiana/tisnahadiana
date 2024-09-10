@@ -207,6 +207,22 @@ Source code for Simple Skin Minecraft Theme B apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+# Add Text On Photo Editor | Aliendroid - Jambox
+ 
+Add text to images or photos easily using Add Text On Photo Editor using a nice and unique theme that you can choose, where we can choose the image or photo that we want to add text, stickers, or accompanied by a theme and arranged with.
+
+With a variety of themes that can be used and various types of text ranging from normal words to pressed words, you can choose very easily, add unique stickers to add appeal to the photos you have.
+ 
+![Header Add Text On Photo Editor](https://github.com/user-attachments/assets/b5974ca9-6244-4fce-ba99-c2242b8cb733)
+
+## Tech Stack
+- Java.
+- Volley.
+- Gson.
+- Lifecycle.
+- Json.
+- Jambox Ads.
+
 # SIA (Sistem Informasi Akademik) 2.0
 
 An update of the Sistem Informasi Akademik (SIA) application which currently has for lecturers to be able to view Student KRS data and information related to the class they teach.
@@ -457,3 +473,4 @@ Source code for Guess Image and Word Theme D apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+ 
