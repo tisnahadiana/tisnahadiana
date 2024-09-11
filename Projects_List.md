@@ -473,4 +473,28 @@ Source code for Guess Image and Word Theme D apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+# Multiple PDF Theme A | Aliendroid - Jambox
+
+Source code for Multiple PDF Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-multiple-pdf-theme-a-456
  
+![Screenshot App Multiple PDF Theme A](https://github.com/user-attachments/assets/38c5e010-79c9-435f-aec3-236ebc9a4d4d)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads. 
+
+# Multiple PDF Theme B | Aliendroid - Jambox
+
+Source code for Multiple PDF Theme B apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-multiple-pdf-theme-b-457
+
+![Screenshot App Multiple PDF Theme B](https://github.com/user-attachments/assets/88da38b3-2cde-46c1-8615-faafdf0c3413)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads. 
