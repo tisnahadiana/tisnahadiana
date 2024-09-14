@@ -524,3 +524,17 @@ Source code for Bussid Category Theme B apps with jambox ads.
 - Volley.
 - Json.
 - Jambox Ads. 
+
+# Fake Call Theme A | Aliendroid - Jambox
+
+Source code for Fake Call Theme A apps with jambox ads.
+- Access Here : https://aliendro.id/fake-video-voice-call-3-template-401
+ 
+ ![Screenshot App Fake Call Theme A](https://github.com/user-attachments/assets/ccc51e52-8a80-4f1c-b8ab-a8256d1d9cee)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads. 
+
