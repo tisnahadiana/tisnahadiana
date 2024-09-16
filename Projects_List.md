@@ -551,4 +551,15 @@ Source code for Fake Call Theme B apps with jambox ads.
 - Json.
 - Jambox Ads.
 
+# Fake Call Theme C | Aliendroid - Jambox
 
+Source code for Fake Call Theme C apps with jambox ads.
+- Access Here : https://aliendro.id/jambox-fake-call-theme-c-408
+
+![Screenshot App Fake Call Theme C](https://github.com/user-attachments/assets/2b8069f4-856d-448e-8e91-7682f90c86cb)
+
+## Tech Stack
+- Java.
+- Volley.
+- Json.
+- Jambox Ads.
