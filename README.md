@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer from Indonesia</h3>
 
 ## 🚀 About Me
-An Android Developer with two years of experience in full-cycle application development using Java, Kotlin, and Jetpack Compose. Worked on projects focused on enhancing app functionality, improving UI/UX, and executing reskinning tasks for client applications, which contributed to improved user engagement and retention. Recently graduated from Universitas Putra Indonesia Cianjur with a degree in Informatics Engineering. Skilled in problem-solving, debugging, and optimization, and passionate about developing innovative and user-friendly mobile applications.
+Android Developer with three years of experience in full-cycle mobile development using Kotlin, Java, and Jetpack Compose. Skilled in building and maintaining scalable features, improving performance, enhancing UI/UX, and delivering reskinned applications for various clients. Strong in debugging, optimization, and clean architecture implementation. Passionate about developing secure, efficient, and user-centric Android applications.
 
 ## 🛠 Skills
 **Kotlin, Java, Android Studio, Firebase**
