@@ -45,18 +45,21 @@ MVVM, Clean Architecture, Modular Architecture, Repository Pattern
 **Async & Networking**
 Coroutines, Flow, Retrofit, Ktor, REST API
 
+**Dependency Injection**
+Koin, Hilt, Dagger
+
 **Tools**
-Android Studio, Git, GitHub, Gradle Kotlin DSL, Koin, Hilt, Dagger
+Android Studio, Git, GitHub, Gradle Kotlin DSL
 
 ---
 
 ## Selected Projects
 
-* **Vynk** — Android-first Kotlin Multiplatform messaging app with Compose Multiplatform, Firebase, Room, Koin, Clean Architecture, and custom design system.
-* **CAVIAR** — Android app for assisting visually impaired pedestrians, built with Kotlin, Firebase, Mapbox, TensorFlow Lite, and Retrofit.
+* **Vynk** — Android-first Kotlin Multiplatform messaging app with Compose Multiplatform, Firebase, Room, Koin, Clean Architecture, MVVM, and custom design system.
+* **CAVIAR** — Android assistive mobility app for visually impaired pedestrians, built with Kotlin, Firebase, Mapbox, TensorFlow Lite, and Retrofit.
 * **EBC** — E-commerce Android app for MSME product visibility, built with Kotlin, Firebase, RajaOngkir API, and Retrofit.
-* **SIA 3.0** — Academic information system Android app for managing student-related information.
-* **Projects List** — Curated list of Android projects, client work, academic projects, and earlier Android experiments.
+* **SIA 3.0** — Academic information system Android app for managing student-related data and campus information.
+* **Projects Archive** — Additional Android projects, client work, academic apps, and earlier Android experiments: [Projects List](https://github.com/tisnahadiana/tisnahadiana/blob/main/Projects_List.md)
 
 ---
 
