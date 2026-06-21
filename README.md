@@ -55,11 +55,11 @@ Android Studio, Git, GitHub, Gradle Kotlin DSL
 
 ## Selected Projects
 
-* **Vynk** — Android-first Kotlin Multiplatform messaging app with Compose Multiplatform, Firebase, Room, Koin, Clean Architecture, MVVM, and custom design system.
-* **CAVIAR** — Android assistive mobility app for visually impaired pedestrians, built with Kotlin, Firebase, Mapbox, TensorFlow Lite, and Retrofit.
-* **EBC** — E-commerce Android app for MSME product visibility, built with Kotlin, Firebase, RajaOngkir API, and Retrofit.
-* **SIA 3.0** — Academic information system Android app for managing student-related data and campus information.
-* **Projects Archive** — Additional Android projects, client work, academic apps, and earlier Android experiments: [Projects List](https://github.com/tisnahadiana/tisnahadiana/blob/main/Projects_List.md)
+- **Vynk** — Android-first Kotlin Multiplatform messaging app with Compose Multiplatform, Firebase, Room, Koin, Clean Architecture, MVVM, and custom design system.
+- **CAVIAR** — Android assistive mobility app for visually impaired pedestrians, built with Kotlin, Firebase, Mapbox, TensorFlow Lite, and Retrofit.
+- **EBC** — E-commerce Android app for MSME product visibility, built with Kotlin, Firebase, RajaOngkir API, and Retrofit.
+- **DeerompApps** — Android app collection built with Kotlin showcasing authentication, dashboard, news, maps, profile, and navigation UI flows.
+- **Projects Archive** — Additional Android projects, client work, academic apps, and earlier Android experiments: [Projects List](https://github.com/tisnahadiana/tisnahadiana/blob/main/Projects_List.md)
 
 ---
 
